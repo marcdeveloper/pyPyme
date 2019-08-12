@@ -1,0 +1,26 @@
+##-------------------------------------------------------------
+## Este archivo es usado para ignorar archivos generados por Qt
+##-------------------------------------------------------------
+
+*.a
+*.moc
+*.o
+*.obj
+*.so
+Makefile*
+*.prl
+*.app
+*.pro.user*
+*.qmlproject.user*
+*.autosave
+
+## Archivos temporales VIM
+.*.swp
+
+## Archivos de MinGW
+*.Debug
+*.Release
+
+## Archivos temporales kate
+*~
+
